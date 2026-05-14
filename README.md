@@ -1,7 +1,33 @@
-# Hi, I'm Dimas Herdiansyah
+<div align="center">
 
+# Hi, I'm Dimas Herdiansyah 👋
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=26&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Frontend+Engineer;Game+Developer;Testing+Assumptions;React+%7C+Astro+%7C+TypeScript;Building+Scalable+Systems" />
+
+<br/>
+</div>
 I am a Frontend Engineer and student at Cakrawala University who prioritizes system scalability over quick-fix solutions. 
 I build digital products with a skeptical mindset, constantly questioning if an architecture truly serves long term viability.
+
+---
+## 🚀 About Me
+
+ts
+const dimas = {
+  education: "Computer Science Student",
+  focus: [
+    "Frontend Architecture",
+    "Type Safety Optimization",
+    "Game Level & Narrative Design",
+  ],
+  currentlyLearning: [
+    "Hybrid Rendering (Island Architecture)",
+    "Headless CMS Integrations",
+    "Game System Mechanics",
+  ],
+  philosophy:
+    "I test technical assumptions to build high performing and sustainable systems, avoiding quick fix solutions.",
+};
 
 ---
 
