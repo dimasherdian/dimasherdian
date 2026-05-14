@@ -12,7 +12,7 @@ I build digital products with a skeptical mindset, constantly questioning if an 
 ---
 ## 🚀 About Me
 
-ts
+```ts
 const dimas = {
   education: "Computer Science Student",
   focus: [
@@ -28,7 +28,7 @@ const dimas = {
   philosophy:
     "I test technical assumptions to build high performing and sustainable systems, avoiding quick fix solutions.",
 };
-
+```
 ---
 
 ### 🚀 Major Impact: Frontend Engineering
