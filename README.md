@@ -10,7 +10,7 @@ I am a Frontend Engineer and student at Cakrawala University who prioritizes sys
 I build digital products with a skeptical mindset, constantly questioning if an architecture truly serves long term viability.
 
 ---
-## 🚀 About Me
+## About Me
 
 ```ts
 const dimas = {
@@ -31,7 +31,7 @@ const dimas = {
 ```
 ---
 
-### 🚀 Major Impact: Frontend Engineering
+### Major Impact: Frontend Engineering
 During my internship at PT Dibimbing Digital Indonesia, I was recognized for modernizing the Cakrawala University web infrastructure.
 
 *   **Architectural Overhaul**: Transitioned a legacy static system to a Headless CMS architecture (Strapi & GraphQL).
@@ -41,7 +41,7 @@ During my internship at PT Dibimbing Digital Indonesia, I was recognized for mod
 
 ---
 
-### 🎮 Critical Thinking: Game Development
+### Critical Thinking: Game Development
 I apply the same analytical discipline to game logic, focusing on intuitive system design and player experience.
 
 *   **Top 4 Community Favorite**: GIM ITB GimJam 2026 for the project "Tandur".
@@ -49,7 +49,7 @@ I apply the same analytical discipline to game logic, focusing on intuitive syst
 
 ---
 
-### 🛠️ Tech Stack & Tooling
+### Tech Stack & Tooling
 *   **Frontend**: Astro.js, React.js, TypeScript, Tailwind CSS.
 *   **Backend & CMS**: Strapi, GraphQL, Supabase.
 *   **Game Dev**: C#, Unity, Aseprite (Pixel Art).
